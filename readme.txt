@@ -5,3 +5,4 @@
 "what files have changed" 
 "what files are not tracked" 
 "hints on what to do next" 
+"test changes--add and commite"
