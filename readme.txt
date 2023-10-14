@@ -1,0 +1,8 @@
+" " 
+"ls -- list of files" 
+"git init gitproject -- start project" 
+"git status: " 
+"what branch on your" 
+"what files have changed" 
+"what files are not tracked" 
+"hints on what to do next" 
