@@ -6,4 +6,10 @@
 "what files are not tracked" 
 "hints on what to do next" 
 "test changes--add and commite"
-test -- new file created"git diff -- check the changes in files/create file" 
+test -- new file created
+"git add . -- add to staged"
+"git log -- know auth and list of commits"
+
+"git log --oneline -- show only list of commit names"
+
+
