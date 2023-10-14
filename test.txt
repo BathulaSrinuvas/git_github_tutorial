@@ -1,1 +1,1 @@
-""
+"git status -s -- show specified changed files"

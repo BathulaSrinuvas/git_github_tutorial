@@ -11,5 +11,5 @@ test -- new file created
 "git log -- know auth and list of commits"
 
 "git log --oneline -- show only list of commit names"
-
+"git status -s -- show specified changed files"
 
