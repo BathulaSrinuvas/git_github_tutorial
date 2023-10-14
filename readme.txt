@@ -6,3 +6,4 @@
 "what files are not tracked" 
 "hints on what to do next" 
 "test changes--add and commite"
+test -- new file created"git diff -- check the changes in files/create file" 
