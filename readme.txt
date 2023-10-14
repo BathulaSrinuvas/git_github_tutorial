@@ -1,5 +1,5 @@
 "ls -- list of files" 
-"git init gitproject -- start project" 
+"git init gitproject -- start project(project new repository)" 
 "git status: " 
 "what branch on your" 
 "what files have changed" 
@@ -12,4 +12,5 @@ test -- new file created
 
 "git log --oneline -- show only list of commit names"
 "git status -s -- show specified changed files"
-
+"git diff -- view differences"
+"git diff --cached -- difference in staging"
