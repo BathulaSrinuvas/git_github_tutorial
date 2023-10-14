@@ -1,4 +1,3 @@
-" " 
 "ls -- list of files" 
 "git init gitproject -- start project" 
 "git status: " 
